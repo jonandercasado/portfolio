@@ -16,7 +16,7 @@ A continuación, una captura de la primera sección de mi portfolio:
 
 Soy un desarrollador frontend apasionado por crear experiencias digitales atractivas, intuitivas y funcionales. Mi enfoque combina diseño y desarrollo para ofrecer soluciones web modernas, optimizadas y accesibles. Me comprometo con la mejora continua, el aprendizaje constante y la aplicación de las mejores prácticas en desarrollo web.
 
-Visita mi página web: [jonandercasado.github.io/portfolio](https://jonandercasado.github.io/portfolio/)
+Visita mi portfolio: [jonandercasado.github.io/portfolio](https://jonandercasado.github.io/portfolio/)
 
 ---
 
