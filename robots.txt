@@ -5,4 +5,4 @@ Disallow: /src/
 Disallow: /README.md
 Disallow: /LICENSE
 
-Sitemap: https://jonandercasado.github.io/portfolio/sitemap.xml
+Sitemap: https://jonandercasado.github.io/portfolio/sitemap.xml.txt
