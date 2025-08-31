@@ -347,6 +347,10 @@ section {
     color: #7c59cc;
 }
 
+.home__skill i.ri-database-2-fill {
+    color: #00758f
+}
+
 .home__skill:hover {
     transform: translateY(-3px);
     background-color: var(--body-color);
